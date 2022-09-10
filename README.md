@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @manojsgajare
+- 👋 Hi, I’m Manoj
 - 👀 I’m interested in AI Technology
 - 🌱 I’m currently learning Full Stack Web Development
 - 💞️ I’m looking to collaborate on new tech and to be a succesful IT professional without any IT background
