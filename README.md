@@ -22,7 +22,7 @@
 <hr>
 
 <h3 align="left">Connect with me:</h3>
-<p>LinkedIn - https://www.linkedin.com/in/manoj-gajare-20055b160/</p>
+<p>LinkedIn - https://www.linkedin.com/in/manojgajare03/</p>
 <hr>
 <p align="left">
 </p>
