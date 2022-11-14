@@ -23,6 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p>LinkedIn - https://www.linkedin.com/in/manojgajare03/</p>
+<p>Portfolio - https://manojsgajare.github.io/</p>
 <hr>
 <p align="left">
 </p>
