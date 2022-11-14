@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Manoj</h1>
 <h3 align="center">An aspiring JAVA developer</h3>
+<p>A curious and aspiring full-stack developer with good
+communication skills and quick learning ability. I am
+willing to work in an organization that offers me an
+opportunity to enhance my personal and professional
+skills.</p>
 <hr>
 <img align="right" alt="coading" width=400 src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
