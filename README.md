@@ -19,7 +19,7 @@ skills.</p>
 
 - 🌱 I’m currently learning **Angular**
 
-- 👯 I’m looking to collaborate on **Full Stack Developer Role**
+- 👯 Looking to collaborate on **Full Stack Developer Role**
 
 - 💬 Ask me about **MERN, JAVA**
 
