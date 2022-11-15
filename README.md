@@ -17,7 +17,7 @@ skills.</p>
 
 - 🔭 I’m currently working on **Java Backend**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 👯 Looking to collaborate on **Full Stack Developer Role**
 
