@@ -21,7 +21,7 @@ skills</p>
 
 - 👯 Looking to collaborate on **Full Stack Developer Role**
 
-- 💬 Ask me about **JAVA**
+- 💬 Ask me about **JAVA / Angular**
 
 - 📫 Revert me on  **gajaremanoj1997@gmail.com**
 <hr>
