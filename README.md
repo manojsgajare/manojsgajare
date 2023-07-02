@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manoj</h1>
-<h3 align="center">An aspiring JAVA developer</h3>
+<h3 align="center">An aspiring .NET developer</h3>
 <p>A curious and aspiring full-stack developer with good
 communication skills and quick learning ability. I am
 willing to work in an organization that offers me an
@@ -15,13 +15,13 @@ skills</p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Java Backend**
+- 🔭 I’m currently working on **.NET Backend**
 
 - 🌱 I’m currently learning **Full Stack Development**
 
 - 👯 Looking to collaborate on **Full Stack Developer Role**
 
-- 💬 Ask me about **JAVA / Angular**
+- 💬 Ask me about **.NET / Azure**
 
 - 📫 Revert me on  **gajaremanoj1997@gmail.com**
 <hr>
